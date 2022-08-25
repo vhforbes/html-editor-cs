@@ -1,0 +1,15 @@
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\bin\Debug\net6.0\HtmlEditor.exe
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\bin\Debug\net6.0\HtmlEditor.deps.json
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\bin\Debug\net6.0\HtmlEditor.runtimeconfig.json
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\bin\Debug\net6.0\HtmlEditor.dll
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\bin\Debug\net6.0\HtmlEditor.pdb
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\HtmlEditor.csproj.AssemblyReference.cache
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\HtmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\HtmlEditor.AssemblyInfoInputs.cache
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\HtmlEditor.AssemblyInfo.cs
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\HtmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\HtmlEditor.dll
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\refint\HtmlEditor.dll
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\HtmlEditor.pdb
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\HtmlEditor.genruntimeconfig.cache
+C:\Users\Forbes\source\repos\BaltaIO\HtmlEditor\obj\Debug\net6.0\ref\HtmlEditor.dll
